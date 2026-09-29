@@ -1,94 +1,37 @@
-Logistics Operations Dashboard
+# Logistics Operations Dashboard
 
-Project Overview
+## Project Overview
 
-This project analyzes logistics operations data to provide insights into delivery performance, fuel efficiency, vehicle and cargo damage, claims, and safety-related activities.
+This project is an interactive Logistics Operations Dashboard developed using Microsoft Power BI.
 
-The project involved cleaning, organizing, analyzing, and visualizing logistics data to create an interactive dashboard that presents important operational Key Performance Indicators (KPIs).
+The dashboard presents logistics and operational data in a clear and interactive format, making it easier to monitor key performance indicators and identify important patterns.
 
-Project Objective
+## Tools Used
 
-The main objective of this project was to transform raw logistics data into meaningful information that can be used to understand operational performance and identify important trends and patterns.
-
-Tools Used
-
-- Microsoft Excel
-- Power BI
+- Microsoft Power BI
 - Power Query
 - DAX
+- Microsoft Excel
 
-Key Areas Analyzed
+## Project Work
 
-The dashboard focuses on several areas of logistics operations, including:
+I developed this Power BI project from scratch. The work included:
 
-- Delivery performance
-- Fuel consumption
-- Average MPG
-- Actual distance traveled
-- Vehicle damage cost
-- Cargo damage cost
-- Claim amount
-- Preventable incidents
-- Logistics routes and operations
+- Data preparation and transformation using Power Query
+- Data modelling
+- Creating DAX calculations and measures
+- Designing interactive dashboard pages
+- Creating KPI cards and visualizations
+- Using slicers and filters for interactive analysis
+- Presenting logistics performance information clearly
 
-Data Preparation
+## Dashboard
 
-The dataset was prepared and organized before analysis. Data cleaning and transformation were performed to make the information suitable for analysis and visualization.
+The project contains multiple dashboard views covering logistics operations and performance.
 
-The data was then used to create KPIs, charts, filters, and interactive dashboard elements.
+A PDF version of the dashboard is included in this repository for easy viewing.
 
-Dashboard Features
+## Project Files
 
-The dashboard contains interactive visualizations and filters that allow users to explore the logistics data from different categories and perspectives.
-
-Key dashboard components include:
-
-- KPI cards
-- Charts and graphs
-- Slicers/filters
-- Operational performance visualizations
-- Fuel-efficiency analysis
-- Safety-related indicators
-
-Key Performance Indicators (KPIs)
-
-Some of the KPIs included in the analysis are:
-
-- Average MPG
-- Total fuel consumption
-- Delivery-related performance
-- Vehicle damage cost
-- Cargo damage cost
-- Claim amount
-- Number of preventable incidents
-
-Project Outcome
-
-The final dashboard provides a visual summary of logistics operations and makes it easier to identify patterns in operational performance, fuel usage, safety incidents, and associated costs.
-
-The project also provided practical experience in data cleaning, data analysis, KPI development, dashboard design, and data visualization.
-
-Dashboard Preview
-
-Main Dashboard
-
-"Logistics Operations Dashboard" (dashboard.png)
-
-Skills Demonstrated
-
-Through this project, I demonstrated skills in:
-
-- Data cleaning and preparation
-- Data analysis
-- Excel dashboard development
-- Power BI dashboard development
-- KPI creation
-- Data visualization
-- Interactive filtering using slicers
-- Basic DAX
-- Power Query
-- Business-oriented data presentation
-
-Conclusion
-
-This project demonstrates how raw logistics data can be transformed into an interactive dashboard that communicates operational information clearly and supports data-driven analysis.
+- **Power BI file (.pbix)** — contains the complete Power BI project.
+- **Dashboard PDF** — provides a view of the completed dashboard.
