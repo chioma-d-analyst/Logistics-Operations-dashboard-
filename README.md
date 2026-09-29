@@ -18,6 +18,10 @@ The dashboard presents logistics and operational data in a clear and interactive
 I developed this Power BI project from scratch. The work included:
 
 - Data preparation and transformation using Power Query
+
+- ## Dashboard Preview
+
+[View the Dashboard PDF](LOGISTICS%20OPERATIONS%20DASHBOARD.pdf)
 - Data modelling
 - Creating DAX calculations and measures
 - Designing interactive dashboard pages
